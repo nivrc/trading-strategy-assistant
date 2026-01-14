@@ -2,7 +2,7 @@
 
 A full-stack trading strategy backtesting platform that allows users to create, manage, and backtest trading strategies using pre-built templates. Features comprehensive SQL-based reporting and performance analytics.
 
-## 🚀 Features
+## Features
 
 ### Strategy Templates
 - **Moving Average Crossover**: Classic trend-following with customizable fast/slow periods
@@ -39,5 +39,5 @@ Demonstrates advanced SQL skills with complex queries:
 - **Top Performers**: Ranked backtest results
 - **Risk Metrics**: Risk-adjusted performance analysis
 
-## 📝 License
+## License
 MIT License
